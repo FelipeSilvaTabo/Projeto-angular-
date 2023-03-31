@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(31, 30, 30);
+}
+
+span{
+    color: yellow;
+    font-size: 2.5rem;
+}
+
+.divhora{
+    width: 30rem;
+    height: 1rem;
+}
+
+.relogiodiv{
+    width: 15rem;
+    margin-left: 25rem;
+    margin-top: 10rem;
+}
+
+h1{
+    position: absolute;
+    margin-top: 5px;
+    color: yellow;
+    margin-left: 11rem;
+}
